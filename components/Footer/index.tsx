@@ -18,7 +18,7 @@ export default function Footer(props: any) {
                     </ButtonGroup>
                 </Stack>
                 <Text fontSize="sm" alignSelf={{ base: 'center', sm: 'start' }}>
-                    &copy; {new Date().getFullYear()} RamenForBreakfast Inc. All rights reserved.
+                    &copy; {new Date().getFullYear()} Ramen For Breakfast Inc. All rights reserved.
                 </Text>
             </Stack>
         </Box>
